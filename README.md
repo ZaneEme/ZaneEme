@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zane</h1>
 <h3 align="center">A cybersecurity student at the University of Colorado</h3>
 
-- 🔭 I’m currently working on **my dotfiles for a new Thinkpad**
+- 🔭 I’m currently working on [**Dotfiles for my new Thinkpad**](https://github.com/ZaneEme/Dotfiles)
+
 
 - 🌱 I’m currently learning **Python Numpy / Pandas**
 
